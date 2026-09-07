@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Maxim Wenninger",
+    "section": "",
+    "text": "Quantitative Finance student interested in quantitative risk, financial modelling, derivatives, and statistical methods in finance."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a Quantitative Finance student with interests in quantitative risk, financial modelling, derivatives, time series, and statistical methods in finance.\nThis site serves as a place to document research projects, implementations, and shorter notes on topics I explore independently."
+  },
+  {
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "Maxim Wenninger",
+    "section": "Research & Projects",
+    "text": "Research & Projects\nI use this site to document personal research, quantitative finance projects, and topics I explore independently.\nCurrent areas of interest include:\n\nQuantitative Risk Management\nDerivatives and Pricing\nFinancial Modelling\nTime Series Analysis\nPortfolio and Market Risk\nStatistical Methods in Finance"
+  },
+  {
+    "objectID": "index.html#recent-work",
+    "href": "index.html#recent-work",
+    "title": "Maxim Wenninger",
+    "section": "Recent Work",
+    "text": "Recent Work\nResearch projects and notes will be added here as the site develops."
+  },
+  {
+    "objectID": "about.html#areas-of-interest",
+    "href": "about.html#areas-of-interest",
+    "title": "About",
+    "section": "Areas of Interest",
+    "text": "Areas of Interest\n\nQuantitative Risk Management\nDerivatives and Pricing\nMarket and Portfolio Risk\nTime Series and Volatility Modelling\nStatistical Methods in Finance\nComputational Finance"
+  },
+  {
+    "objectID": "about.html#tools",
+    "href": "about.html#tools",
+    "title": "About",
+    "section": "Tools",
+    "text": "Tools\nI primarily work with Python and use this site alongside GitHub to document code and research."
+  }
+]

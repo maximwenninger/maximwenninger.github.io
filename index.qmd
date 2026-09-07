@@ -1,0 +1,23 @@
+---
+title: "Maxim Wenninger"
+toc: false
+---
+
+Quantitative Finance student interested in quantitative risk, financial modelling, derivatives, and statistical methods in finance.
+
+## Research & Projects
+
+I use this site to document personal research, quantitative finance projects, and topics I explore independently.
+
+Current areas of interest include:
+
+- Quantitative Risk Management
+- Derivatives and Pricing
+- Financial Modelling
+- Time Series Analysis
+- Portfolio and Market Risk
+- Statistical Methods in Finance
+
+## Recent Work
+
+Research projects and notes will be added here as the site develops.

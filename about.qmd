@@ -1,0 +1,21 @@
+---
+title: "About"
+toc: false
+---
+
+I am a Quantitative Finance student with interests in quantitative risk, financial modelling, derivatives, time series, and statistical methods in finance.
+
+This site serves as a place to document research projects, implementations, and shorter notes on topics I explore independently.
+
+## Areas of Interest
+
+- Quantitative Risk Management
+- Derivatives and Pricing
+- Market and Portfolio Risk
+- Time Series and Volatility Modelling
+- Statistical Methods in Finance
+- Computational Finance
+
+## Tools
+
+I primarily work with Python and use this site alongside GitHub to document code and research.
